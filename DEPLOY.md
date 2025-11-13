@@ -25,6 +25,7 @@ Deploy your AI Logo Generator for free using modern platforms.
 ### Environment Variables
 
 Add to Vercel:
+
 ```
 NEXT_PUBLIC_API_URL=https://your-backend.railway.app
 ```
