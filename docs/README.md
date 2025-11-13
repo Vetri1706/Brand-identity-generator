@@ -1,0 +1,30 @@
+# Documentation Index
+
+- Setup
+  - [Quick Start (Local)](./setup/QUICK_START_LOCAL.md)
+  - [Local Setup with Ollama](./setup/LOCAL_SETUP_OLLAMA.md)
+  - [General Setup Guide](./setup/SETUP_GUIDE.md)
+  - [Local Development](./setup/LOCAL_DEVELOPMENT.md)
+  - [Start Here](./setup/START_HERE.md)
+- Deployment
+  - [Deployment Overview](./deployment/DEPLOYMENT.md)
+  - [Quick Deploy Reference](./deployment/QUICK_DEPLOY_REFERENCE.md)
+  - [GCP Quick Start](./deployment/gcp/GOOGLE_CLOUD_QUICK_START.md)
+  - [GCP Full Guide](./deployment/gcp/GOOGLE_CLOUD_DEPLOYMENT.md)
+  - [GCP Files Reference](./deployment/gcp/GOOGLE_CLOUD_FILES_REFERENCE.md)
+  - [GCP Inventory](./deployment/gcp/GOOGLE_CLOUD_INVENTORY.md)
+  - [GCP Setup Complete](./deployment/gcp/GOOGLE_CLOUD_SETUP_COMPLETE.md)
+  - [Troubleshooting](./deployment/DEPLOYMENT_TROUBLESHOOTING.md)
+  - [GCP Env Config](./deployment/gcp/GCP_ENV_CONFIG.md)
+- Architecture
+  - [Architecture](./architecture/ARCHITECTURE.md)
+  - [Resource Index](./references/RESOURCE_INDEX.md)
+  - [Index](./references/INDEX.md)
+- Windows & PowerShell
+  - [PowerShell Deployment Guide](./windows/POWERSHELL_DEPLOYMENT_GUIDE.md)
+  - [PowerShell Deployment Fix](./windows/POWERSHELL_DEPLOYMENT_FIX.md)
+  - [Path Update Summary](./windows/PATH_UPDATE_SUMMARY.md)
+- References
+  - [Free LLM Alternatives](./references/FREE_LLM_ALTERNATIVES.md)
+  - [Delivery Summary](./reports/DELIVERY_SUMMARY.md)
+  - [Project Complete](./reports/PROJECT_COMPLETE.md)

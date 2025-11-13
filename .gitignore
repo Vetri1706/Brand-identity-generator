@@ -1,0 +1,67 @@
+.env
+.env.local
+.env.*.local
+.env.production.local
+.env.test.local
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build
+.next/
+out/
+build/
+*.egg-info
+
+# Testing
+.pytest_cache/
+coverage/
+.coverage
+htmlcov/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Models and large files
+*.bin
+*.pth
+models/
+data/training/training_prompts.jsonl
+data/evaluation_set.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# API Keys and secrets (NEVER commit these)
+API_KEYS_*
+secrets.json
+.secrets
+
+# Generated files
+*.bak
+*.tmp

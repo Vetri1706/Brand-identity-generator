@@ -1,0 +1,35 @@
+{
+  "total_prompts": 2000,
+  "categories": {
+    "logo_design": 500,
+    "color_design": 500,
+    "typography_design": 500,
+    "complete_brand": 500
+  },
+  "quality_distribution": {
+    "90-99": 1172,
+    "80-89": 828
+  },
+  "industry_distribution": {
+    "SaaS": 100,
+    "FinTech": 100,
+    "HealthTech": 100,
+    "EdTech": 100,
+    "Cybersecurity": 100,
+    "AI/ML": 100,
+    "Blockchain": 100,
+    "IoT": 100,
+    "Cloud Computing": 100,
+    "DevOps": 100,
+    "E-commerce": 100,
+    "PropTech": 100,
+    "CleanTech": 100,
+    "Biotech": 100,
+    "InsurTech": 100,
+    "Legal Tech": 100,
+    "HR Tech": 100,
+    "Marketing Tech": 100,
+    "Supply Chain": 100,
+    "Robotics": 100
+  }
+}
