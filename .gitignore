@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .env
 .env.local
 .env.*.local
@@ -22,11 +23,43 @@ env.bak/
 venv.bak/
 
 # IDEs
+=======
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+>>>>>>> 11cb9aa835148d32821fdb9f4a818289a6d3267c
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
+<<<<<<< HEAD
 .DS_Store
 
 # Build
@@ -52,10 +85,22 @@ npm-debug.log*
 models/
 data/training/training_prompts.jsonl
 data/evaluation_set.json
+=======
+
+# Environment variables
+.env
+.env.local
+.env.production
+API_KEYS_FOR_NIMBUS.txt
+
+# Streamlit
+.streamlit/secrets.toml
+>>>>>>> 11cb9aa835148d32821fdb9f4a818289a6d3267c
 
 # OS
 .DS_Store
 Thumbs.db
+<<<<<<< HEAD
 
 # API Keys and secrets (NEVER commit these)
 API_KEYS_*
@@ -65,3 +110,17 @@ secrets.json
 # Generated files
 *.bak
 *.tmp
+=======
+desktop.ini
+
+# Generated files
+*.zip
+*.png
+*.jpg
+*.jpeg
+temp/
+output/
+
+# Logs
+*.log
+>>>>>>> 11cb9aa835148d32821fdb9f4a818289a6d3267c

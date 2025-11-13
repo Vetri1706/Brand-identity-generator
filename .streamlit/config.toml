@@ -1,0 +1,28 @@
+# Streamlit Configuration for Nimbus Platform Deployment
+
+[theme]
+# Premium color scheme matching the app design
+primaryColor="#667eea"
+backgroundColor="#f5f7fa"
+secondaryBackgroundColor="#ffffff"
+textColor="#2d3748"
+font="sans serif"
+
+[server]
+# Server configuration for cloud deployment
+headless = true
+port = 8501
+address = "0.0.0.0"
+enableCORS = true
+enableXsrfProtection = false
+maxUploadSize = 200
+runOnSave = false
+
+[browser]
+# Browser settings
+gatherUsageStats = false
+
+[client]
+# Client configuration
+showErrorDetails = true
+toolbarMode = "auto"
